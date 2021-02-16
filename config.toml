@@ -1,0 +1,4 @@
+baseURL = "https://cellosheetmusic-wowo.vercel.app"
+languageCode = "en-us"
+title = "Cello Sheet Music PDF"
+theme = "hugo-theme-minos"
